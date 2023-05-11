@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hello!
 
-<!--
-**Joepocalyptic/Joepocalyptic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**I'm Joey** (they/them), a full-stack software developer with 10 years of experience across various fields, including JVM backend development, Jamstack web development, and UX design.
 
-Here are some ideas to get you started:
+I have a passion for writing elegant, modular, and maintainable code which I pair with compelling designs to create the best possible user experience. One of my favorite hobbies is
+to experiment with new, innovative technologies; my current focus is [Elixir](https://elixir-lang.org).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Outside of development, I love to play RTS and 4X games such as Sid Meier's Civilization 6 and Stellaris and stare at my pet land snails.
+
+## Get in touch
+
+- Website: https://joeypereira.dev (source available at [Joepocalyptic/portfolio](https://github.com/Joepocalyptic/portfolio))
+- Email: [contact@joeypereira.dev](mailto:contact@joeypereira.dev)
