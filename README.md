@@ -7,7 +7,7 @@ to experiment with new, innovative technologies; my current focus is [Elixir](ht
 
 Outside of development, I love to play RTS and 4X games such as Sid Meier's Civilization 6 and Stellaris and stare at my pet land snails.
 
-[![My Skills]([https://skillicons.dev/icons?i=kotlin,java,ts,html,css,vue,nuxt,elixir?theme=dark](https://skillicons.dev/icons?i=kotlin,java,ts,html,css,tailwind,vue,nuxt,elixir,cs,supabase,linux,grafana,idea,ps,pr,ae,xd,?theme=dark))](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=kotlin,java,ts,html,css,tailwind,vue,nuxt,elixir,cs,supabase,linux,grafana,idea,ps,pr,ae,xd,?theme=dark)](https://skillicons.dev)
 
 ## Get in touch
 
