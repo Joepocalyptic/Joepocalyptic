@@ -5,7 +5,7 @@
 I have a passion for writing elegant, modular, and maintainable code which I pair with compelling designs to create the best possible user experience. One of my favorite hobbies is
 to experiment with new, innovative technologies; my current focus is [Elixir](https://elixir-lang.org).
 
-Outside of development, I love to play RTS and 4X games such as Sid Meier's Civilization 6 and Stellaris and stare at my pet land snails.
+Outside of development, I love to play RTS and 4X games and stare at my pet land snails.
 
 [![My Skills](https://skillicons.dev/icons?i=kotlin,java,ts,html,css,tailwind,vue,nuxt,elixir,cs,supabase,linux,grafana,idea,ps,pr,ae,xd,?theme=dark)](https://skillicons.dev)
 
